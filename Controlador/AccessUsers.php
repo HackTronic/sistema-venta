@@ -1,5 +1,5 @@
 <?php
-require ('../Model/Conexion.php');
+require ('../Modelo/Conexion.php');
 require ('Constants.php');
 
 
@@ -50,7 +50,7 @@ if(empty($searchUser)){
 else if($tipo == 'VENTAS'){
 
 
-    require ('../Views/WellcomeVentas.php');
+    require ('../Vistas/WellcomeVentas.php');
 
 
 
@@ -67,7 +67,7 @@ else if($tipo == 'ADMINISTRADOR'){
 
 
 
-    require ('../Views/Wellcome.php');
+    require ('../Vistas/Wellcome.php');
 
 
 
