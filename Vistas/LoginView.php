@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Creative - Bootstrap 3 Responsive Admin Template">
-    <meta name="author" content="GeeksLabs">
+    <meta name="author" content="HackTronic">
     <meta name="keyword" content="Creative, Dashboard, Admin, Template, Theme, Bootstrap, Responsive, Retina, Minimal">
     <link rel="shortcut icon" href="img/favicon.png">
 
@@ -33,7 +33,7 @@
 
 <div class="container">
 
-    <form class="login-form" action="../sistema/Controlador/AccessUsers.php">
+    <form class="login-form" action="../SISTEMA/Controlador/AccessUsers.php">
         <div class="login-wrap">
             <p class="login-img"><i class="icon_lock_alt"></i></p>
             <div class="input-group">
