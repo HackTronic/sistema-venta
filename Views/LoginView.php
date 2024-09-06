@@ -4,22 +4,22 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Creative - Bootstrap 3 Responsive Admin Template">
-    <meta name="author" content="HackTronic">
+    <meta name="author" content="GeeksLabs">
     <meta name="keyword" content="Creative, Dashboard, Admin, Template, Theme, Bootstrap, Responsive, Retina, Minimal">
     <link rel="shortcut icon" href="img/favicon.png">
 
-    <title>HACKTRONIC - Sistema Profesional Para Empresas</title>
+    <title>iCONT - Sistema Profesional Para Empresas</title>
     <!-- Bootstrap CSS -->
-    <link href="Vistas/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Views/css/bootstrap.min.css" rel="stylesheet">
     <!-- bootstrap theme -->
-    <link href="Vistas/css/bootstrap-theme.css" rel="stylesheet">
+    <link href="Views/css/bootstrap-theme.css" rel="stylesheet">
     <!--external css-->
     <!-- font icon -->
-    <link href="Vistas/css/elegant-icons-style.css" rel="stylesheet" />
-    <link href="Vistas/css/font-awesome.css" rel="stylesheet" />
+    <link href="Views/css/elegant-icons-style.css" rel="stylesheet" />
+    <link href="Views/css/font-awesome.css" rel="stylesheet" />
     <!-- Custom styles -->
-    <link href="Vistas/css/style.css" rel="stylesheet">
-    <link href="Vistas/css/style-responsive.css" rel="stylesheet" />
+    <link href="Views/css/style.css" rel="stylesheet">
+    <link href="Views/css/style-responsive.css" rel="stylesheet" />
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 -->
     <!--[if lt IE 9]>
@@ -33,7 +33,7 @@
 
 <div class="container">
 
-    <form class="login-form" action="../SISTEMA/Controlador/AccessUsers.php">
+    <form class="login-form" action="../VENTASPOS/Controller/AccessUsers.php">
         <div class="login-wrap">
             <p class="login-img"><i class="icon_lock_alt"></i></p>
             <div class="input-group">

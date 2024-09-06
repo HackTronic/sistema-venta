@@ -3,11 +3,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Sistema para el Menejo de Empresas - contabilidad , ventas , ingresos , egresos">
-    <meta name="author" content="HackTronic">
+    <meta name="author" content="GeeksLabs">
     <meta name="keyword" content="Sistema modo tactil , para escritorio tabletas ">
     <link rel="shortcut icon" href="img/favicon.png">
 
-    <title>HACKTRONIC - Sistema Profesional Para Empresas</title>
+    <title>iCONT - Sistema Profesional Para Empresas</title>
 
     <!-- Bootstrap CSS -->
     <link href="<?php echo $urlViews; ?>css/bootstrap.min.css" rel="stylesheet">

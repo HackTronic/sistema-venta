@@ -11,10 +11,10 @@ class conexion{
 
     public function __construct(){
 
-        $user = 'u670308002_root';
-        $password = 'sergioA22689';
+        $user = 'root';
+        $password = '';
         $server = 'localhost';
-        $database = 'u670308002_hacktronic';
+        $database = 'icontpos';
         $this->con = new mysqli($server , $user , $password , $database);
 
 
@@ -36,6 +36,27 @@ class conexion{
 
         }
         return $retorno;
+
+
+    }
+
+    public function getMenuMain(){
+
+        $query = $this->con->query("SELECT * FROM `menu`");
+
+        $retorno=[];
+
+        $i = 0;
+        while ($fila = $query->fetch_assoc()){
+
+            $retorno[$i] = $fila;
+            $i++;
+
+        }
+        return $retorno;
+
+
+
 
 
     }
