@@ -127,22 +127,15 @@ include('Head.php');
                             </tr>
                             </thead>
 
-
                             </table>
-
 
                         </div>
 
-
                     </div>
-
                     
                 </div>
 
-
-
             </div>
-
 
         </div>
 
@@ -163,8 +156,6 @@ include('Head.php');
                         </div>
                     </div>
                 </div>
-
-
         </div>
 
         <div class="col1of2">

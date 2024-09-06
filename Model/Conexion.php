@@ -11,10 +11,10 @@ class conexion{
 
     public function __construct(){
 
-        $user = 'root';
-        $password = '';
+        $user = 'u670308002_root';
+        $password = 'sergioA22689';
         $server = 'localhost';
-        $database = 'icontpos';
+        $database = 'u670308002_hacktronic';
         $this->con = new mysqli($server , $user , $password , $database);
 
 
